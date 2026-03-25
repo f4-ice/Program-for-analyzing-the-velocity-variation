@@ -27,3 +27,14 @@ streamlit run main.py
 ```
 
 La simulación se abrirá automáticamente en tu navegador web predeterminado.
+
+También este proyecto está preconfigurado para ejecutarse automáticamente en la nube. No es necesario instalar Python localmente ni ejecutar comandos manuales en la terminal para obtener los resultados.
+
+## Pasos para Lanzar la Aplicación el la nube:
+1.Crear el Entorno: Haz clic en el botón verde "<> Code" en la parte superior de este repositorio.
+
+2.Iniciar Codespace: Selecciona la pestaña "Codespaces" y haz clic en "Create codespace on main".
+
+3.Configuración Automática: Espera unos instantes. GitHub realizará lo siguiente de forma automática.
+
+4.Ver la Aplicación: Aparecerá una notificación en la esquina inferior derecha indicando: "Your application running on port 8501 is available". Haz clic en el botón "Open in Browser" (Abrir en el navegador).
